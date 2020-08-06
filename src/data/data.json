@@ -1,0 +1,22 @@
+{
+  "profile": [
+    {
+      "details": {
+        "image": "profile14.png",
+        "name": "Munuparthi Nvaeen",
+        "role": "software developer",
+        "email": "naveensrt248@gmail.com",
+        "mobile": "9618760599"
+      }
+    },
+    {
+      "details": {
+        "image": "https://cdn.pixabay.com/photo/2017/03/09/12/31/error-2129569_960_720.jpg",
+        "name": "patnayakuni Mahesh",
+        "role": "software developer",
+        "email": "naveensrt248@gmail.com",
+        "mobile": "9618760599"
+      }
+    }
+  ]
+}
